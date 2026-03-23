@@ -25,8 +25,10 @@ This project creates a thin, always-on-top overlay that hides damaged areas of y
 
 Clone the repository:
 
-git clone https://github.com/your-username/screen-line-fix.git
+git clone https://github.com/your-username/Display-Line-fixer.git
+
 cd screen-line-fix
+
 
 Install dependencies:
 pip install -r requirements.txt
