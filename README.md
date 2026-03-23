@@ -21,15 +21,6 @@ This project creates a thin, always-on-top overlay that hides damaged areas of y
 
 ---
 
-## 📸 Demo
-
-> Before: Visible screen damage (line/dead pixels)  
-> After: Clean display with overlay masking
-
-*(Tip: Add a GIF or screenshot here for better impact)*
-
----
-
 ## 🚀 Installation
 
 Clone the repository:
